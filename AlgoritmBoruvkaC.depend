@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1589710289 source:c:\users\dell\desktop\algoritmboruvkac\boruvka.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boruvka.h"
+	"declarati.h"
+
+1589710219 c:\users\dell\desktop\algoritmboruvkac\boruvka.h
+	"declarati.h"
+
+1589710289 c:\users\dell\desktop\algoritmboruvkac\declarati.h
+
+1589717479 source:c:\users\dell\desktop\algoritmboruvkac\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"boruvka.h"
+	"declarati.h"
+
+1590064697 source:c:\users\dell\desktop\temapanouu\algoritmboruvkac\boruvka.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boruvka.h"
+	"declarati.h"
+
+1589710219 c:\users\dell\desktop\temapanouu\algoritmboruvkac\boruvka.h
+	"declarati.h"
+
+1589710289 c:\users\dell\desktop\temapanouu\algoritmboruvkac\declarati.h
+
+1590064568 source:c:\users\dell\desktop\temapanouu\algoritmboruvkac\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"boruvka.h"
+	"declarati.h"
+
