@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1590065260 source:c:\users\dell\desktop\temapanouu\algoritmkruskalc\kruskal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"kruskal.h"
+	"declaratii.h"
+
+1589709443 c:\users\dell\desktop\temapanouu\algoritmkruskalc\kruskal.h
+	"declaratii.h"
+
+1589708902 c:\users\dell\desktop\temapanouu\algoritmkruskalc\declaratii.h
+
+1590063435 source:c:\users\dell\desktop\temapanouu\algoritmkruskalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"kruskal.h"
+	"declaratii.h"
+
