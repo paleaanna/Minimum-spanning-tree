@@ -1,0 +1,13 @@
+def afiseazameniu():
+    print("\t ======= Meniu =======\n")
+    print("\t Selectati marimea grafului:\n\n")
+    print("\t a -> 0-10 noduri\n")
+    print("\t b -> 10-50 noduri\n")
+    print("\t e -> 50-100 noduri\n")
+    print("\t c -> 100-500 noduri\n")
+    print("\t d -> 500-1000 noduri\n")
+    print("\t f -> 1000-1500 noduri\n")
+    print("\t g -> 1500-2000 noduri\n")
+    print("\t h -> 2000-2500 noduri\n")
+    print("\t i -> 2500-3000 noduri\n")
+    print("\t j -> 3000-3500 noduri")
